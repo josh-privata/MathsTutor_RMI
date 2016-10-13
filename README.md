@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The goal was to write a java application using Java TCP API Socket to implement a simple client/server
 application using multi-threaded programming RMI.
